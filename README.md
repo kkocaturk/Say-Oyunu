@@ -5,4 +5,4 @@
     <p>Klavyeden girilen tahminler programda kullanılıyor</p>
 <h2>Gif</h2>
 
-![](website.gif)
+![](oyun.gif)
